@@ -1,0 +1,32 @@
+* {
+    font-family: Arial;
+    background-color: #FAFAD2;
+    }
+    body{
+    margin-top: 40px 100px 10px;
+    }
+    main {
+        margin: 0 auto;
+        padding: 0 20px 20px 20px;
+    }
+    h1 {
+    text-align: center;
+    background-color: #FFFF00;
+    color: #45afe0;
+    font-size: 40px;
+    }
+    
+    p {
+    font-size: 20px;
+    color: #000;
+    text-align: justify;
+    }
+    h1 {;
+    border: 1px inset  white;
+    border-radius: 1px 2px; 
+    box-shadow: 2px 2px 5px 4px #FFCC00;
+    }
+    h2 {
+        border: 1px #F5F5F5;
+        text-decoration: underline;
+    }
